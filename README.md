@@ -1,11 +1,11 @@
 # Anthony Campos --@anthonydevelops
 
-Hi, I'm Anthony--a Publisher Integration Engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of software/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing a small game called Pokemon Go. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project all the way to completion.
+Hi, I'm Anthony--a Publisher Integration Engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of software/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing games like Pokemon Go or League of Legends. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project.
 
 ### Interests
 
-- 🔭 I’m currently working on nothing really
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **a site for my friends where we coach people to be slightly better at League of Legends**
+- 🌱 I’m currently learning **more about microservices**
 - 👯 I’m looking to collaborate on creating fun projects that might revolve around interesting APIs or, better yet, the Poke API. Also, designing APIs are really fun, so add that one in too
 
 ### My Values
@@ -21,7 +21,7 @@ A mix of inuitiveness, putting in the work to think out the problem, always goog
 
 ### Get In Touch
 
-More to come soon, social media wise I'm not too active, but that might change.
+Twitch: @sovostreams
 
 
 <!--
