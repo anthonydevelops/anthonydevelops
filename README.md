@@ -6,7 +6,7 @@ Hi, I'm Anthony--a Publisher Integration Engineer at Epsilon working on resolvin
 
 - 🔭 I’m currently working on **a gaming AI toaster (yikes i know) and trying not to spend money on Genshin Impact**
 - 🌱 I’m currently learning **more about microservices and API development**
-- 👯 I’m looking to collaborate on creating fun projects that might revolve around interesting APIs or, better yet, the Poke API. Also, designing APIs are really fun, so add that one in too
+- 👯 I’m looking to collaborate on creating fun projects that might revolve around interesting APIs, docker or automation
 
 ### My Values
 
