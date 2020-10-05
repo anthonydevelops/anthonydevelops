@@ -21,7 +21,7 @@ A mix of inuitiveness, putting in the work to think out the problem, always goog
 
 ### Get In Touch
 
-Twitch: @sovostreams
+Twitter: @anthonydevelops
 
 
 <!--
