@@ -1,10 +1,8 @@
-# Anthony Campos --@anthonydevelops
-
-Hi, I'm Anthony--a Publisher Integration Engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of tools/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing games like Pokemon Go or League of Legends. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project.
+Hi, I'm Anthony - a engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of tools/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing games like Pokemon Go or League of Legends. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project.
 
 ### Interests
 
-- 🔭 I’m currently working on **a gaming AI toaster (yikes i know) and trying not to spend money on Genshin Impact**
+- 🔭 I’m currently working on **a gaming AI toaster (yikes i know) and trying not to spend money on WoW**
 - 🌱 I’m currently learning **more about microservices and API development**
 - 👯 I’m looking to collaborate on creating fun projects that might revolve around interesting APIs, docker or automation
 
@@ -17,12 +15,7 @@ Hi, I'm Anthony--a Publisher Integration Engineer at Epsilon working on resolvin
 
 ### How I Work
 
-A mix of inuitiveness, putting in the work to think out the problem, always googling, and when really stuck on what else I could do, reach out to the amazing team around me
-
-### Get In Touch
-
-Twitter: @anthonydevelops
-
+A mix of inuitiveness, putting in the work to think out the problem, always googling, and when really stuck on what else I could do, reach out to the amazing team around me.
 
 <!--
 **anthonydevelops/anthonydevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
