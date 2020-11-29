@@ -1,4 +1,4 @@
-Hi, I'm Anthony - a engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of tools/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing games like Pokemon Go or League of Legends. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project.
+Hi, I'm Anthony - an engineer at Epsilon working on resolving publisher issues and creating internal tools to support the media team. A list of tools/languages I use on the daily include: SQL, Postman, DBVisualizer, and JIRA. On my free-time, I dabble in creating fun projects or playing games like Pokemon Go or League of Legends. Reach out if you ever want to talk about software or are curious when I'll ever finish a side project.
 
 ### Interests
 
